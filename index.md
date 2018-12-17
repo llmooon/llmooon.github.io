@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## llmooon의 블로그
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+llmooon의 공간입니다. 조금씩 내용을 추가하도록 하겠습니다.
