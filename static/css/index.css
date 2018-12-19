@@ -2,9 +2,17 @@
  * Reset some basic elements
  */
 /* commom */
+
+
+
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
 body {
-	/* background-image: url(http://7q5cdt.com1.z0.glb.clouddn.com/bg-canvas_bg.jpg); */
-    font-family: 'Microsoft YaHei', 'SimHei', sans-serif;
+	background-image: url(./../../downloads/t7.jpg);
+	background-repeat: repeat; 
+	background-size: 55%;
+    /* font-family: 'Microsoft YaHei', 'SimHei', sans-serif; */
+	font-family : "Nanum Gothic", sans-serif;
 }
 article p{
 	/*text-indent: 2em;*/
