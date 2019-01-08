@@ -65,7 +65,11 @@ int main() {
 
 - nlongn 풀이
 
-- ```c++
+- lis를 nlogn에 문제를 해결 하였다.
+
+- (--it)->second와 --it->second 의 우선순위가 달라 결과가 바뀌는 issue가 있었다.
+
+  ```c++
   #include<iostream>
   #include<vector>
   #include<algorithm>
@@ -115,3 +119,4 @@ int main() {
   
   }
   ```
+
