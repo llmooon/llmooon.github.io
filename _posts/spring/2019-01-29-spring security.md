@@ -45,19 +45,6 @@ categories: Spring
 - UserDetails
   - userDetails 에서 제공되는 메서드
     - ![1548773216608](./../../assets/spring_security_userdetailsservice.png)
-  - 
-
-##  인증 방법
-
-### 1. HTTP 기본 인증
-
-Basic authentication is often used with stateless clients which pass their credentials on each request. It’s quite common to use it in combination with form-based authentication where an application is used through both a browser-based user interface and as a web-service.
-
-
-
-
-
----
 
 참고
 
