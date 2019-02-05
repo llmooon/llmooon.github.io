@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: temp
 comments: true
 categories: Web
 tag : rest, restful, rest Api
