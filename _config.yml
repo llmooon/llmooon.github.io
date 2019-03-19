@@ -48,8 +48,8 @@ author:
       url:
 home:
   section1: <h1>llmooon's blog</h1>
-  section2: <h2><a href="https://llmooon.github.io/blog/"> go to blog </a> </h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section2: <h2><a href="https://llmooon.github.io/blog/"> Enter Blog </a></h2>
+#  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
