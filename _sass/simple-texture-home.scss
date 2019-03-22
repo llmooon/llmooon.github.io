@@ -107,7 +107,7 @@ textarea {
     text-decoration: none;
 
     color: $color-text-light;
-    border: 1px solid #150E1F;
+    // border: 1px solid #150E1F;
     outline: none;
 
     &:hover {
@@ -133,6 +133,7 @@ textarea {
 
 .btn-enter {
     padding: 4px 6px 0 4px;
+    color : #b3be6b;
 }
 
 .btn-continue {
