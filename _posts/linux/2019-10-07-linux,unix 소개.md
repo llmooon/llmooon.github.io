@@ -73,6 +73,8 @@ categories: linux
 
 ![](../../assets/linux/unix1.PNG)
 
+![](../../assets/linux/unix2.PNG)
+
 하드웨어<커널<쉘<유틸리티
 
 ### 커널과 시스템 호출
@@ -109,11 +111,8 @@ categories: linux
 
 
 
+---
 
+리눅스 시스템 원리와 실제 1장
 
-
-
-
-
-
-
+유닉스 이론과 실습 1장
