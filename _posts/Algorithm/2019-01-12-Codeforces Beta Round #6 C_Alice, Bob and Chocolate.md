@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_투포인터
+tag : 알고리즘
 ---
 
 -  양 끝에서 크기가 작은 인덱스를 하나씩 줄여가는 문제

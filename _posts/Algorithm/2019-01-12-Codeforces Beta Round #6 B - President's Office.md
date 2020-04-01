@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_Bfs, 알고리즘 _Dfs
+tag : 알고리즘
 ---
 
 -  Bfs/ Dfs

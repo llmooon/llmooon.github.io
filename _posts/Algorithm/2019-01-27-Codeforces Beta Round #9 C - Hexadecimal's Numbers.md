@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_Bfs, 알고리즘_2진수, 알고리즘_완전탐색
+tag : 알고리즘
 ---
 
 -  Bfs 풀이,  2진수의 활용, 완전 탐색 등등 다양한 풀이가 존재

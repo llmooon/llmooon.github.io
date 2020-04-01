@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_투포인터, 알고리즘_set, 알고리즘_슬라이딩윈도우
+tag : 알고리즘
 ---
 
 -  숫자 범위가 k이하 차이나는 범위 중 가장 긴 범위를 구하는 문제.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_삼각형, 알고리즘_구현
+tag : 알고리즘
 ---
 
 -  삼각형의 성질을 잘 알아야 풀 수 있는 문제

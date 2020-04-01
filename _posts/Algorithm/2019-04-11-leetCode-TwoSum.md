@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_해쉬
+tag : 알고리즘
 ---
 
 ## LeetCode - TwoSum

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_자료구조, 알고리즘_Map
+tag : 알고리즘
 ---
 
 -  map 을 사용하여 문제를 잘 사용하여 해결 할 수 있는 문제!

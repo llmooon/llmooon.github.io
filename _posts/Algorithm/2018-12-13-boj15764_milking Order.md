@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_구현
+tag : 알고리즘
 ---
 
 ## 백준 15764 milking Order

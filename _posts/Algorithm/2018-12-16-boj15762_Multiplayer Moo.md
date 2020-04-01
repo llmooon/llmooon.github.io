@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_BFS, 알고리즘_그래프압축
+tag : 알고리즘
 ---
 
 ##  백준 15762 Multiplayer Moo

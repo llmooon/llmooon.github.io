@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_정렬, 알고리즘_lis, 알고리즘_dp
+tag : 알고리즘
 ---
 
 -  정렬 기준을 잘 고려하여 lis를 풀면 된다.

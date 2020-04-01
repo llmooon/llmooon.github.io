@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_정렬
+tag : 알고리즘
 ---
 
 - 쉬운 정렬 문제였다.

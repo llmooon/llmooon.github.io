@@ -2,7 +2,7 @@
 layout: post
 comments: true
 categories: Algorithm
-tag : 알고리즘_그리디
+tag : 알고리즘
 ---
 
 -  그리디
